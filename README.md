@@ -1,7 +1,6 @@
 <h2 align="left">info</h2>
 
 - evo
-- IT Student
 
 <h2 align="left">languages</h2>
 
