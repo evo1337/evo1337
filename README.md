@@ -5,6 +5,7 @@
 <h2 align="left">languages</h2>
 
 - C# - Somewhat Sufficient
+- C++ - Learning, Mostly ImGui
 - Python - Havent touched in months
 - NodeJS - Havent touched in months
 
