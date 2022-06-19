@@ -11,6 +11,10 @@
 - [Telegram](?)
 - [Site](https://e.rip/evo)
 
+<h2 align="left">projects</h2>
+
+- [Soon]()
+
 
 <h2 align="left">stats</h2>
 
