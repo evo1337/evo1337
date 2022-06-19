@@ -8,6 +8,9 @@
 <h2 align="left">contacts</h2>
 
 - [Discord](https://discord.com/users/527458512390062100)
+- [Telegram](?)
+- [Site](https://e.rip/evo)
+
 
 <h2 align="left">stats</h2>
 
