@@ -13,4 +13,4 @@
 
 ![](https://komarev.com/ghpvc/?username=styIe&color=blueviolet)
 
-![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=styIe&theme=midnight-purple&show_icons=true)
+![9 GitHub stats](https://github-readme-stats.vercel.app/api?username=styIe&theme=red&show_icons=true)
