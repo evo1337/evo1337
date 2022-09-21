@@ -1,9 +1,6 @@
 <h2 align="left">languages</h2>
 
-- C# - Somewhat Sufficient
-- C++ - Learning, Mostly ImGui
-- Python - Havent touched in months
-- NodeJS - Havent touched in months
+- every language known to man
 
 <h2 align="left">contacts</h2>
 
